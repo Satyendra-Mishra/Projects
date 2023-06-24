@@ -1,0 +1,9 @@
+TerraformApplication/.aws
+TerraformApplication/.terraform
+TerraformApplication/terraform.tfstate.backup
+.vscode
+FlaskApplication/__pycache__
+FlaskApplication/logs
+*/**/__pycache__
+FlaskApplication/**/*.ipynb
+TerraformApplication/.terraform.lock.hcl
